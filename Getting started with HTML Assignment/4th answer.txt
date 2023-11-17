@@ -1,0 +1,20 @@
+In HTML, a tag is a piece of markup language that indicates the beginning and end of an HTML element. Tags are like keywords that define how a web browser will format and display content.
+HTML tags have three main parts: Opening tag, Content, Closing tag. 
+Some HTML tags are unclosed. 
+Here are some examples of HTML tags: 
+<a>: Defines a hyperlink
+<html>: An opening tag
+</html>: A closing tag
+<h1>: Defines a heading
+<p>: Defines a paragraph
+HTML tags help web browsers convert HTML documents into web pages
+
+Example of a tag:
+<p> This a paragraph tag</p>
+
+
+An HTML element is a section of an HTML document. Elements can represent visible components on a web page, such as text, images, or buttons. They can also denote different sections of the page or provide meta-information about the document. 
+Elements are defined by a starting tag. If the element contains other content, it ends with a closing tag. For example, <p> is the starting tag of a paragraph and </p> is the closing tag of the same paragraph. 
+
+Example of an element:
+<p>This line is called as element from starting tag to ending tag. </p>

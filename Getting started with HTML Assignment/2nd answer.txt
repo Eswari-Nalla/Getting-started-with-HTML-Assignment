@@ -1,0 +1,2 @@
+HTML comments are used to make code more readable. They are hidden from the webpage and only appear in the code. 
+ Comments are enclosed in <!-- --> tags. These tags tell the browser that the text inside them is a comment and should not be rendered on the front end. 
